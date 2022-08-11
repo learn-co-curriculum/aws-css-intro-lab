@@ -24,6 +24,8 @@ Fork and clone this lesson into your local environment. Navigate into its
 directory in the terminal, then run `code .` to open the files in Visual Studio
 Code.
 
+Install all the dependencies with `npm install` to ensure you can test your work as you go with `npm test`.
+
 ## Import a CSS File in Our HTML
 
 First things first: we need to make sure our HTML is loading our style sheet.
@@ -97,7 +99,7 @@ has changed:
 - Set the elements with the class of `.perspective-questions` to a `font-style`
   of `italic`
 
-Run `learn test` to test your work.
+Run `npm test` to test your work.
 
 ## Conclusion
 
